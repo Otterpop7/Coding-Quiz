@@ -2,7 +2,7 @@
 
 <h3>Link To Website</h3>
 
-https://otterpop7.github.io/Code-Quiz/
+https://otterpop7.github.io/Coding-Quiz/
 
 <h3>Screenshots Of Pages</h3>
 
